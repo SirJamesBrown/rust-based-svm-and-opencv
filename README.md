@@ -1,6 +1,6 @@
 # Window and Door Detection with OpenCV and Rust
 
-An intelligent computer vision application that detects windows, doors, and buildings in architectural images using OpenCV and Machine Learning (SVM) with Rust. The application features a modular architecture for maintainability and extensibility.
+Detects windows, doors, and buildings in architectural images using OpenCV and Machine Learning (SVM) with Rust.
 
 ## Features
 
