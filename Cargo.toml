@@ -1,0 +1,7 @@
+[package]
+name = "rust-based-svm-and-opencv"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+opencv = "0.91"
